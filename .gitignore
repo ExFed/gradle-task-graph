@@ -1,5 +1,6 @@
 .gradle
 /build/
+/out/
 
 # Ignore Gradle GUI config
 gradle-app.setting
@@ -15,3 +16,11 @@ gradle-app.setting
 
 # Ignore Gradle build output directory
 build
+
+## IDE metadata
+.idea
+*.iml
+*.ipr
+*.iws
+.classpath
+.project
